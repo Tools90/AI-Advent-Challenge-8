@@ -1,0 +1,19 @@
+# Секреты и локальные данные
+
+.env.local
+api_key.txt
+gigachat_auth.txt
+*.key
+data/
+
+# Сборка
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# ОС
+.DS_Store
+Thumbs.db

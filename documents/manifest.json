@@ -1,0 +1,74 @@
+{
+    "documents":  [
+                      {
+                          "id":  "medium-otcy",
+                          "title":  "Отцы и дети (фрагмент)",
+                          "author":  "И. С. Тургенев",
+                          "file":  "medium-otcy.txt",
+                          "size":  "medium",
+                          "chars":  149920,
+                          "approxTokens":  50000,
+                          "description":  "Фрагмент ~150 тыс. символов"
+                      },
+                      {
+                          "id":  "long",
+                          "title":  "Капитанская дочка",
+                          "author":  "А. С. Пушкин",
+                          "file":  "long.txt",
+                          "size":  "long",
+                          "chars":  217178,
+                          "approxTokens":  75000,
+                          "description":  "Повесть целиком"
+                      },
+                      {
+                          "id":  "book-100k",
+                          "title":  "Мёртвые души",
+                          "author":  "Н. В. Гоголь",
+                          "file":  "book-100k.txt",
+                          "size":  "100k",
+                          "chars":  294523,
+                          "approxTokens":  100000,
+                          "description":  "~100K токенов"
+                      },
+                      {
+                          "id":  "book-200k",
+                          "title":  "Дворянское гнездо",
+                          "author":  "И. С. Тургенев",
+                          "file":  "book-200k.txt",
+                          "size":  "200k",
+                          "chars":  599359,
+                          "approxTokens":  200000,
+                          "description":  "~200K токенов"
+                      },
+                      {
+                          "id":  "book-300k",
+                          "title":  "Обломов",
+                          "author":  "И. А. Гончаров",
+                          "file":  "book-300k.txt",
+                          "size":  "300k",
+                          "chars":  899371,
+                          "approxTokens":  300000,
+                          "description":  "~300K токенов"
+                      },
+                      {
+                          "id":  "war-and-peace",
+                          "title":  "Война и мир",
+                          "author":  "Л. Н. Толстой",
+                          "file":  "war-and-peace.txt",
+                          "size":  "800k",
+                          "chars":  2950117,
+                          "approxTokens":  800000,
+                          "description":  "Полный текст, ~800K токенов"
+                      },
+                      {
+                          "id":  "anna-karenina",
+                          "title":  "Анна Каренина",
+                          "author":  "Л. Н. Толстой",
+                          "file":  "anna-karenina.txt",
+                          "size":  "500k",
+                          "chars":  1837665,
+                          "approxTokens":  500000,
+                          "description":  "Полный текст, ~500K токенов"
+                      }
+                  ]
+}
